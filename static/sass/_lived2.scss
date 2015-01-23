@@ -50,12 +50,12 @@ $black-80: #585858;
 // LivED Custom Fonts
 @font-face {
     font-family: 'Raleway';
-    src: url('../themes/lived/fonts/Raleway-Thin.ttf') format('truetype');
+    src: url('../themes/lived2/fonts/Raleway-Thin.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Latim Modern Roman';
-    src: url('../themes/lived/fonts/lmroman10-regular.otf') format("opentype");
+    src: url('../themes/lived2/fonts/lmroman10-regular.otf') format("opentype");
 }
 
 $theme-sans-font: 'Raleway';
@@ -200,12 +200,12 @@ $footer_margin: ($baseline/4) 0;
 //-----------------
 //  CSS BG Images
 //-----------------
-$homepage-bg-image: url('../themes/lived/images/banner_blank.png');
+$homepage-bg-image: url('../themes/lived2/images/banner_blank.png');
 
 $login-banner-image: none;
 $register-banner-image: none;
 
-$video-thumb-url: '../themes/lived/images/edx.png';
+$video-thumb-url: '../themes/lived2/images/edx.png';
 
 //-----------------
 //  Mixin Styles
